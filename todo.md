@@ -1,3 +1,3 @@
--[ ] create the user model, register, login, logout 
+-[x] create the user model, register, login, logout 
 -[ ] create the job model
 -[ ] create the job input form
