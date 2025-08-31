@@ -1,5 +1,9 @@
 - [x] create the user model, register, login, logout 
 - [x] create the job model
 - [x] create the job input form
+- [ ] base template (sidebar, header, footer)
+  - [ ] sidebar
+  - [x] header
+  - [ ] footer
 - [ ] come up with a job sequence diagram and pipline
 - [ ] create the job list view
