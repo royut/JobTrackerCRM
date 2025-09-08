@@ -50,3 +50,8 @@ def index_view(request):
     user = request.user
     print(user)
     return render(request, 'User/index.html', {'user': user})
+
+
+# for test purposes
+def test_view(request):
+    return render(request, 'base.html')
